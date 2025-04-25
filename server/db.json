@@ -2,10 +2,7 @@
   {
     "id": 1,
     "name": "IronMan",
-    "powers": [
-      "robot",
-      "money"
-    ],
+    "powers": ["robot", "money"],
     "health": 33,
     "villains": [
       {
@@ -17,10 +14,7 @@
   {
     "id": 2,
     "name": "Batman",
-    "powers": [
-      "intelligence",
-      "money"
-    ],
+    "powers": ["intelligence", "money"],
     "health": 60,
     "villains": [
       {
@@ -32,9 +26,7 @@
   {
     "id": 3,
     "name": "Spider-Man",
-    "powers": [
-      "intelligence"
-    ],
+    "powers": ["intelligence"],
     "health": 40,
     "villains": [
       {
@@ -46,10 +38,7 @@
   {
     "id": 4,
     "name": "Thor",
-    "powers": [
-      "god",
-      "magic"
-    ],
+    "powers": ["god", "magic"],
     "health": 77,
     "villains": [
       {
@@ -61,9 +50,7 @@
   {
     "id": 5,
     "name": "Dr. Strange",
-    "powers": [
-      "magic"
-    ],
+    "powers": ["magic"],
     "health": 86,
     "villains": [
       {
@@ -74,9 +61,7 @@
   },
   {
     "name": "mr.Strange",
-    "powers": [
-      "jadau"
-    ],
+    "powers": ["jadau"],
     "health": 87,
     "villains": [
       {
@@ -88,9 +73,7 @@
   },
   {
     "name": "mr.Strange",
-    "powers": [
-      "jadau"
-    ],
+    "powers": ["jadau"],
     "health": 87,
     "villains": [
       {
